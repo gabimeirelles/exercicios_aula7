@@ -1,0 +1,9 @@
+body{
+    background-color:black;
+    color:white;
+}
+#banner{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
